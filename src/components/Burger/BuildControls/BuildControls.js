@@ -1,6 +1,6 @@
 import React from 'react';
-import BuildControl from './BurgerControl/BurgerControl';
-import classes from './BurgerControls.css';
+import BuildControl from './BuildControl/BuildControl';
+import classes from './BuildControls.css';
 
 const controls = [
     { label: 'Bacon', type: 'bacon' },

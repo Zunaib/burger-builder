@@ -1,5 +1,5 @@
 import React from 'react';
-import classes from './BurgerControl.css';
+import classes from './BuildControl.css';
 
 const buildcontrol = (props) => (
 
